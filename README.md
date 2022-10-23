@@ -3,11 +3,11 @@
 
 # Ảnh chụp màn hình
 
-![1](https://user-images.githubusercontent.com/105619244/197386114-d1f952ea-6658-4c40-8540-c5e5d0f42174.png)
-![2](https://user-images.githubusercontent.com/105619244/197386116-bace87f2-2621-4bb8-a52a-6bef384b5b17.png)
-![3](https://user-images.githubusercontent.com/105619244/197386118-2a5ccc75-13c1-4e08-ba01-39538df7882b.png)
-![4](https://user-images.githubusercontent.com/105619244/197386119-3a5c7934-89db-4b6b-8c75-9323db078074.png)
-![5](https://user-images.githubusercontent.com/105619244/197386121-b667fd7d-5d34-4977-92e8-8ea4c32528b5.png)
+![1](https://user-images.githubusercontent.com/105619244/197386114-d1f952ea-6658-4c40-8540-c5e5d0f42174.png),
+![2](https://user-images.githubusercontent.com/105619244/197386116-bace87f2-2621-4bb8-a52a-6bef384b5b17.png),
+![3](https://user-images.githubusercontent.com/105619244/197386118-2a5ccc75-13c1-4e08-ba01-39538df7882b.png),
+![4](https://user-images.githubusercontent.com/105619244/197386119-3a5c7934-89db-4b6b-8c75-9323db078074.png),
+![5](https://user-images.githubusercontent.com/105619244/197386121-b667fd7d-5d34-4977-92e8-8ea4c32528b5.png),
 
 ![6](https://user-images.githubusercontent.com/105619244/197386131-bdf36584-a3a7-4bc8-a0a0-3fa048af3eb7.png)
 ![7](https://user-images.githubusercontent.com/105619244/197386133-ce33093d-70d6-4d03-bdde-5ee929498574.png)
