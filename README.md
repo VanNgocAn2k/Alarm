@@ -41,7 +41,7 @@
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 | -->
 
 ## Alarm
- <img src=https://user-images.githubusercontent.com/105619244/197386114-d1f952ea-6658-4c40-8540-c5e5d0f42174.png alt=1 width="150" /> 
+| <img src=https://user-images.githubusercontent.com/105619244/197386114-d1f952ea-6658-4c40-8540-c5e5d0f42174.png alt=1 width="150" /> 
 <img src=https://user-images.githubusercontent.com/105619244/197386116-bace87f2-2621-4bb8-a52a-6bef384b5b17.png alt=2 width="150" /> 
 <img src=https://user-images.githubusercontent.com/105619244/197386118-2a5ccc75-13c1-4e08-ba01-39538df7882b.png alt=3 width="150" /> 
 <img src=https://user-images.githubusercontent.com/105619244/197386119-3a5c7934-89db-4b6b-8c75-9323db078074.png alt=4 width="150" />
