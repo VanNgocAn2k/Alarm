@@ -2,13 +2,19 @@
 # Ứng dụng Dồng hồ 
 
 # Ảnh chụp màn hình
-<img src=![Simulator Screen Shot - iphone 8 - 2022-10-23 at 16 10 45](https://user-images.githubusercontent.com/105619244/197385261-5d17ec53-d6e1-45f5-b983-722069da442d.png)
-![Simulator Screen Shot - iphone 8 - 2022-10-23 at 16 25 52](https://user-images.githubusercontent.com/105619244/197385270-b1746f78-9f15-4844-925c-26ef12d69ad6.png)
-![Simulator Screen Shot - iphone 8 - 2022-10-23 at 16 26 49](https://user-images.githubusercontent.com/105619244/197385291-386d9197-1a49-4ed5-9467-1a77a34ee1a0.png)
-![Simulator Screen Shot - iphone 8 - 2022-10-23 at 16 45 56](https://user-images.githubusercontent.com/105619244/197385332-0363ff41-e27c-44b0-852d-560569d0564e.png)
-![Simulator Screen Shot - iphone 8 - 2022-10-23 at 16 27 33](https://user-images.githubusercontent.com/105619244/197385296-f2a78296-8a1e-4537-9ed6-3fee648ac654.png)
-![Simulator Screen Shot - iphone 8 - 2022-10-23 at 16 30 43](https://user-images.githubusercontent.com/105619244/197385362-d1a019c2-1c30-428a-b7c2-71f10c67c0e4.png)
-![Simulator Screen Shot - iphone 8 - 2022-10-23 at 16 32 05](https://user-images.githubusercontent.com/105619244/197385365-df844fb4-7a91-44ca-a942-9c8332d3020a.png)
-![Simulator Screen Shot - iphone 8 - 2022-10-23 at 16 47 34](https://user-images.githubusercontent.com/105619244/197385407-d82a6d64-ece9-468a-b519-cc6b30b7989f.png)
-![Simulator Screen Shot - iphone 8 - 2022-10-23 at 16 41 02](https://user-images.githubusercontent.com/105619244/197385420-0771c0ce-f604-4ef4-831e-674c4b7c0866.png)
->
+
+![1](https://user-images.githubusercontent.com/105619244/197386114-d1f952ea-6658-4c40-8540-c5e5d0f42174.png)
+![2](https://user-images.githubusercontent.com/105619244/197386116-bace87f2-2621-4bb8-a52a-6bef384b5b17.png)
+![3](https://user-images.githubusercontent.com/105619244/197386118-2a5ccc75-13c1-4e08-ba01-39538df7882b.png)
+![4](https://user-images.githubusercontent.com/105619244/197386119-3a5c7934-89db-4b6b-8c75-9323db078074.png)
+![5](https://user-images.githubusercontent.com/105619244/197386121-b667fd7d-5d34-4977-92e8-8ea4c32528b5.png)
+
+![6](https://user-images.githubusercontent.com/105619244/197386131-bdf36584-a3a7-4bc8-a0a0-3fa048af3eb7.png)
+![7](https://user-images.githubusercontent.com/105619244/197386133-ce33093d-70d6-4d03-bdde-5ee929498574.png)
+
+![8](https://user-images.githubusercontent.com/105619244/197386135-c06b1eeb-ec40-4bce-a5c1-c50edd82648d.png)
+![9](https://user-images.githubusercontent.com/105619244/197386136-e14b5493-d53d-4e99-958d-2c11dfda2c43.png)
+
+![10](https://user-images.githubusercontent.com/105619244/197386156-9c0d70c3-76fc-49d2-9c47-cdc7f54d20e0.png)
+![11](https://user-images.githubusercontent.com/105619244/197386157-417b02db-7e1e-492e-8079-3ed5b0b22156.png)
+![12](https://user-images.githubusercontent.com/105619244/197386159-e3a86206-1d76-4408-9194-b4438376e0ce.png)
