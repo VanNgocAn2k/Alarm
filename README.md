@@ -30,6 +30,6 @@
 
 | Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
 |--------------|-------|------|-------|
-| Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
-| Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
+| <img src=https://user-images.githubusercontent.com/105619244/197386114-d1f952ea-6658-4c40-8540-c5e5d0f42174.png alt=1 width="250" /> | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
+|<img src=https://user-images.githubusercontent.com/105619244/197386114-d1f952ea-6658-4c40-8540-c5e5d0f42174.png alt=1 width="250" /> | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
